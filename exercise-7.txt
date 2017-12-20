@@ -1,0 +1,21 @@
+Tugas Satu
+
+Simpan "angka pertama"
+Simpan "angka kedua"
+Hitung "angka pertama" dikalikan "angka kedua" Simpan ke "hasil"
+Tuliskan "hasil"
+
+==============
+Tugas Dua
+
+Simpan "kata"
+IF "kata" sama dengan "Saya Belajar Javascript!" Tuliskan "Pasti Bisa!"
+
+===============
+Tugas Ketiga 
+
+Simpang "angka"
+Ulangi Tampilkan deret angka yang habis di bagi tiga, dimulai dari 1 terus di tambah sampai deret angka jadi lebih kecil atau sama dengan "angka"
+
+    
+
